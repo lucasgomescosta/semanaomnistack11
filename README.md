@@ -28,6 +28,8 @@ This project was developed with the following technologies:
 <img alt="BeTheHero" title="#BeTheHero" src="https://github.com/lucasgomescosta/semanaomnistack11/blob/master/img/inicio.png" width="550px" />
 <img alt="BeTheHero" title="#BeTheHero" src="https://github.com/lucasgomescosta/semanaomnistack11/blob/master/img/cadastrar%20caso.png" width="550px" />
 <img alt="BeTheHero" title="#BeTheHero" src="https://github.com/lucasgomescosta/semanaomnistack11/blob/master/img/listagem.png" width="550px" />
+<img alt="BeTheHero" title="#BeTheHero" src="https://github.com/lucasgomescosta/semanaomnistack11/blob/master/img/cadastrar%20ong.png" width="550px" />
+
 
 ## Mobile
 <img alt="BeTheHero" title="#BeTheHero" src="https://github.com/lucasgomescosta/semanaomnistack11/blob/master/img/splashScreen.jpg" width="350px" />
